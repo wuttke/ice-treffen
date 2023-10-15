@@ -1,0 +1,107 @@
+Aachen Hbf
+Aschaffenburg Hbf
+Augsburg Hbf
+Bad Oldesloe
+Bamberg
+Berlin-Friedrichstraße
+Berlin Gesundbrunnen
+Berlin Ostbahnhof
+Berlin Zoologischer Garten
+Berlin-Lichtenberg
+Berlin-Spandau
+Berlin-Wannsee
+Bielefeld Hbf
+Bietigheim-Bissingen
+Bochum Hbf
+Bonn Hbf
+Braunschweig Hbf
+Bremen Hbf
+Bruchsal
+Chemnitz Hbf
+Berlin Hauptbahnhof
+Cottbus Hbf
+Darmstadt Hbf
+Dortmund Hbf
+Dresden Hbf
+Dresden-Neustadt
+Duisburg Hbf
+Düsseldorf Hbf
+Erfurt Hbf
+Essen Hbf
+Frankfurt (Main) Süd
+Frankfurt (Oder)
+Frankfurt (Main) Hbf
+Freiburg (Breisgau) Hbf
+Fulda
+Fürth (Bay) Hbf
+Gelsenkirchen Hbf
+Gießen
+Göttingen
+Hagen Hbf
+Halle (Saale) Hbf
+Hamburg Dammtor
+Hamburg Hbf
+Hamburg-Altona
+Hamburg-Harburg
+Hamm (Westf) Hbf
+Hanau Hbf
+Hannover Hbf
+Heidelberg Hbf
+Herford
+Hildesheim Hbf
+Ingolstadt Hbf
+Kaiserslautern Hbf
+Karlsruhe Hbf
+Kassel Hbf
+Kassel-Wilhelmshöhe
+Kiel Hbf
+Koblenz Hbf
+Köln Hbf
+Köln Messe/Deutz
+Landshut (Bay) Hbf
+Leipzig Hbf
+Lübeck Hbf
+Ludwigshafen (Rhein) Hbf
+Lüneburg
+Magdeburg Hbf
+Mainz Hbf
+Mannheim Hbf
+Mönchengladbach Hbf
+München Hbf
+München Ost
+München-Pasing
+Münster (Westf) Hbf
+Neumünster
+Neuss Hbf
+Neustadt (Weinstr) Hbf
+Nürnberg Hbf
+Oberhausen Hbf
+Offenburg
+Oldenburg (Oldb) Hbf
+Osnabrück Hbf
+Berlin Ostkreuz
+Paderborn Hbf
+Berlin Südkreuz
+Pforzheim Hbf
+Plochingen
+Potsdam Hbf
+Berlin Potsdamer Platz
+Regensburg Hbf
+Rheine
+Rosenheim
+Rostock Hbf
+Saarbrücken Hbf
+Singen (Hohentwiel)
+Solingen Hbf
+Stuttgart Hbf
+Trier Hbf
+Tübingen Hbf
+Uelzen
+Ulm Hbf
+Weimar
+Wiesbaden Hbf
+Wolfsburg Hbf
+Worms Hbf
+Wuppertal Hbf
+Würzburg Hbf
+Flughafen BER - Terminal 1-2

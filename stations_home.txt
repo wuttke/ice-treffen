@@ -1,0 +1,4 @@
+"Berlin Hauptbahnhof",8011160
+"Freiburg (Breisgau) Hbf",8000107
+"Hamburg Hbf",8002549
+"Heidelberg Hbf",8000156

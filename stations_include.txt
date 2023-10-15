@@ -1,0 +1,83 @@
+"Aachen Hbf",8000001
+"Aschaffenburg Hbf",8000010
+"Augsburg Hbf",8000013
+"Bad Oldesloe",8000023
+"Bamberg",8000025
+"Bielefeld Hbf",8000036
+"Bietigheim-Bissingen",8000038
+"Bochum Hbf",8000041
+"Bonn Hbf",8000044
+"Braunschweig Hbf",8000049
+"Bremen Hbf",8000050
+"Bruchsal",8000055
+"Chemnitz Hbf",8010184
+"Cottbus Hbf",8010073
+"Darmstadt Hbf",8000068
+"Dortmund Hbf",8000080
+"Dresden Hbf",8010085
+"Duisburg Hbf",8000086
+"Düsseldorf Hbf",8000085
+"Erfurt Hbf",8010101
+"Essen Hbf",8000098
+"Frankfurt (Oder)",8010113
+"Frankfurt (Main) Hbf",8000105
+"Fulda",8000115
+"Fürth (Bay) Hbf",8000114
+"Gelsenkirchen Hbf",8000118
+"Gießen",8000124
+"Göttingen",8000128
+"Hagen Hbf",8000142
+"Halle (Saale) Hbf",8010159
+"Hamm (Westf) Hbf",8000149
+"Hanau Hbf",8000150
+"Hannover Hbf",8000152
+"Herford",8000162
+"Hildesheim Hbf",8000169
+"Ingolstadt Hbf",8000183
+"Kaiserslautern Hbf",8000189
+"Karlsruhe Hbf",8000191
+"Kassel Hbf",8000193
+"Kiel Hbf",8000199
+"Koblenz Hbf",8000206
+"Köln Hbf",8000207
+"Landshut (Bay) Hbf",8000217
+"Leipzig Hbf",8010205
+"Lübeck Hbf",8000237
+"Ludwigshafen (Rhein) Hbf",8000236
+"Lüneburg",8000238
+"Magdeburg Hbf",8010224
+"Mainz Hbf",8000240
+"Mannheim Hbf",8000244
+"Mönchengladbach Hbf",8000253
+"München Hbf",8000261
+"Münster (Westf) Hbf",8000263
+"Neumünster",8000271
+"Neuss Hbf",8000274
+"Neustadt (Weinstr) Hbf",8000275
+"Nürnberg Hbf",8000284
+"Oberhausen Hbf",8000286
+"Offenburg",8000290
+"Oldenburg (Oldb) Hbf",8000291
+"Osnabrück Hbf",8000294
+"Paderborn Hbf",8000297
+"Pforzheim Hbf",8000299
+"Plochingen",8000302
+"Potsdam Hbf",8012666
+"Regensburg Hbf",8000309
+"Rheine",8000316
+"Rosenheim",8000320
+"Rostock Hbf",8010304
+"Saarbrücken Hbf",8000323
+"Singen (Hohentwiel)",8000073
+"Solingen Hbf",8000087
+"Stuttgart Hbf",8000096
+"Trier Hbf",8000134
+"Tübingen Hbf",8000141
+"Uelzen",8000168
+"Ulm Hbf",8000170
+"Weimar",8010366
+"Wiesbaden Hbf",8000250
+"Wolfsburg Hbf",8006552
+"Worms Hbf",8000257
+"Wuppertal Hbf",8000266
+"Würzburg Hbf",8000260
