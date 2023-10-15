@@ -12,4 +12,4 @@ Und was kommt heraus:
 
 Oder, als Tabelle:
 
-![Table](results_table.jgg)
+![Table](results_table.jpg)
