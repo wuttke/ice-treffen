@@ -7,4 +7,9 @@ Destinationen mit geringer Standardabweichung der mittleren Fahrtzeit sind "fair
 Destinationen mit geringer mittlerer Fahrzeit sind "nah".
 
 Und was kommt heraus:
-!(results.png)
+
+![Plot](results.png)
+
+Oder, als Tabelle:
+
+![Table](results_table.jgg)
